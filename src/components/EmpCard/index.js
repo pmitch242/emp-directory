@@ -7,7 +7,7 @@ function EmpCard(props) {
         <div>
             <Col>
                 <Card style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src="{props.image}" />
+                    <Card.Img variant="top" src={props.image} />
                     <Card.Body>
                         <ul>
                             <li>
