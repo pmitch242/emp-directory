@@ -23,8 +23,6 @@ class Directory extends Component {
                         location={employee[0].location}
                         funninessLevel={employee[0].funninessLevel}
                     />
-                    <EmpCard />
-                    <EmpCard />
                 </Row>
             </Container>
         </div>
