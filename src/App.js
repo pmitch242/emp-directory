@@ -6,7 +6,8 @@ function App() {
   return (
     <div>
       <h1>Employee Directory Test</h1>
-      <Directory/>
+    <Directory/>
+
     </div>
   );
 }
