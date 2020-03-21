@@ -16,7 +16,7 @@ function EmpCard(props) {
                         <strong>Occupation:</strong> {props.occupation}
                     </li>
                     <li>
-                        <strong>Location:</strong> {props.location}
+                        <strong>Maturity Level:</strong> {props.maturity}
                     </li>
                     <li>
                         <strong>Funny Rate:</strong> {props.funninessLevel}
