@@ -5,7 +5,7 @@ import Directory from './pages/Directory';
 function App() {
   return (
     <div>
-      <h1>Employee Directory Test</h1>
+      <h1>Employee Directory</h1>
     <Directory/>
 
     </div>
